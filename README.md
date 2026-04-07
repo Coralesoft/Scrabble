@@ -40,4 +40,4 @@ Make sure `letfil.bin` is in the same directory as the executable.
 
 ## License
 
-MIT License — (c) C.Brown 2001-2026
+MIT License (c) C.Brown 2001-2026
